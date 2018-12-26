@@ -2,6 +2,11 @@
 title: markdown语法
 date: 2018-12-25 09:47:11
 tags:
+- 语法
+- 基础知识
+- 必学
+categories:
+- 一个小基础
 ---
 
 # 一级标题
